@@ -8,3 +8,5 @@
 * [谷歌邮箱如何修改密码 | Gmail 邮箱靓号如何修改密码](https://github.com/PremiumEmail/Blog/issues/5)
 * [Gmail 邮箱如何更改国家地区](https://github.com/PremiumEmail/Blog/issues/6)
 * [如何长期使用外区 Apple ID，避免封号的技巧！](https://github.com/PremiumEmail/Blog/issues/7)
+* [美国 Apple ID 目前无法完成你的请求 此时无法创建你的账户 | Your request could not be completed at this time. Your account cannot be created at this time.](https://github.com/PremiumEmail/Blog/issues/8)
+
