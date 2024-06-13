@@ -9,4 +9,5 @@
 * [Gmail 邮箱如何更改国家地区](https://github.com/PremiumEmail/Blog/issues/6)
 * [如何长期使用外区 Apple ID，避免封号的技巧！](https://github.com/PremiumEmail/Blog/issues/7)
 * [美国 Apple ID 目前无法完成你的请求 此时无法创建你的账户 | Your request could not be completed at this time. Your account cannot be created at this time.](https://github.com/PremiumEmail/Blog/issues/8)
+* [如何注册谷歌邮箱 | 如何注册 Gmail 邮箱 | 如何跳过手机验证注册谷歌账号](https://github.com/PremiumEmail/Blog/issues/9)
 
